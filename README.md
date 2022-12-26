@@ -1,2 +1,6 @@
-# history-of-philosophy
-철학사를 정리해보자
+# history-of-philosophy(가제)
+
+------
+
+## [왜 철학을 공부해야 하는가?](why-study-philosophy.md)
+
